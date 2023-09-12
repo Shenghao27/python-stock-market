@@ -3,4 +3,7 @@
 
 ## 重要事記
 
-* 1_buy_follow_corp_改.ipynb : 修改郵件輸出內容為
+* 1_buy_follow_corp_改.ipynb : 修改郵件輸出內容為html格式
+* 2_buy_with_devidend.ipynb : 可執行成功
+* 2_2_buy_with_dividend_price.ipynb : 可執行成功
+* 3_buy_with_price_fall_改.ipynb : 修改郵件輸出內容為html格式
